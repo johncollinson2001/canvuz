@@ -1,0 +1,145 @@
+#canvas {	
+	width:100%;		
+	height:100%;	
+	background-color:transparent;	
+	cursor: url("../images/icons/arrow_32.png"), default;			
+}
+
+#controls {
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	display:none;
+	position:absolute;
+	left:20px;
+	bottom:10px;
+}
+.control {
+	display:inline;
+}
+
+.button {
+	cursor:url("../images/icons/pointer_32.png"), pointer;
+	opacity: 0.4;
+	display:inline;
+	padding-right: 2px;
+}
+
+#scrollControls {
+	display:none;
+}
+
+#forwardScroll {
+	position:absolute;
+	top:20%;
+}
+
+#backScroll {
+	position:absolute;
+	top:20%;
+}
+
+#comments {	
+	background:none;
+	width:300px;
+	height:450px;
+	position:absolute;
+	top:100px;
+	left:100px;
+	padding:0px 0px 0px 0px;	
+	margin:0px 0px 0px 0px;
+	display:none;
+	color:#000;
+	cursor:url("../images/icons/arrow_32.png"), auto;
+}
+
+#commentsFrame {
+	opacity:0.8;
+	background-color:white;
+	width:300px;
+	height:450px;
+	position:absolute;
+	top:100px;
+	left:100px;
+	padding:0px 0px 0px 0px;	
+	margin:0px 0px 0px 0px;
+	display:none;
+}
+
+#comments ul {	
+	overflow-x: hidden;
+	overflow-y: hidden;
+	position:relative;
+	top:2%;
+	left:2%;
+	width:96%;
+	height:84%;
+	padding:0px 0px 0px 0px;	
+	margin:0px 0px 0px 0px;
+}
+
+#comments ul li {
+	
+	margin-bottom:2px;	
+	padding: 5px 5px 5px 5px;
+	position:relative;
+	width:auto;
+	background-color:#EDEFF4;
+	list-style-type: none;
+	font-size:12px;
+	font-family:lucida grande, tahoma;
+}
+
+#comments ul li .author{
+	display:block;
+	font-weight:bold;	
+}
+
+#comments ul li .commentstr {
+	display:block;
+	word-wrap:break-word;
+	font-size:11px;	
+}
+
+#comments ul li .date {
+	display:block;
+	font-weight:bold;
+	font-size:10px;
+}
+
+#commentsControl {
+	height:10%;
+	width:96%;
+	position:absolute;
+	bottom:2%;
+	left:2%;
+}
+
+#commentsControl input {	
+	position:relative;
+	float:left;
+	width:82%;
+	height:100%;
+	padding:0px 0px 0px 5px;
+	border:1px solid #ccc;
+	font-size:11px;		
+	z-index:1000;
+}
+
+#submitComment {
+	position:relative;
+	float:right;
+	width:13%;
+	height:100%;	
+	margin-top:1px;	
+	background-color:#5B74A8;
+	cursor:url("../images/icons/pointer_32.png"), pointer;
+}
+
+#submitComment img {
+	width:82%;
+	height:82%;
+	position:absolute;
+	top:10%;
+	left:10%;
+}
+
