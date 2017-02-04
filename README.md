@@ -18,7 +18,7 @@ e.g. `var canvas = Canvuz.load();`
 
 The canvas is loaded with static demo data in Canvuz.load(). Modify this method to load Canvuz with your own data.
 
-Because the photos are sized based on the available screen size in the browser, the demo uses a PHP library to dynamically resize, cache and serve the photos. Because of this, you need to run Canvuz as a PHP website (using Apache or a similar web server). Replacing this for a similar library running on a different web platform would be a trivial task.
+Because the photos are sized based on the available viewing area in the browser, the demo uses a PHP library to dynamically resize, cache and serve the photos. Because of this, you need to run Canvuz as a PHP website (using Apache or a similar web server). Replacing this for a similar library running on a different web platform would be a trivial task.
 
 # Disclaimer
 
