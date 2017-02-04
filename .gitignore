@@ -1,1 +1,2 @@
-includes/imagecache
+includes/imagecache/*
+!includes/imagecache/placeholder.txt
