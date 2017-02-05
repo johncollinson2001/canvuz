@@ -26,7 +26,7 @@ This project is entirely for demo purposes. It isn't production ready, however f
 
 # Screenshots
 
-![canvuz-fullscreen](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic1.jpg)
-![canvuz-menu](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic2.jpg)
-![canvuz-album](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic3.jpg)
-![canvuz-pic](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic4.jpg)
+![canvuz-fullscreen](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic1.png)
+![canvuz-menu](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic2.png)
+![canvuz-album](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic3.png)
+![canvuz-pic](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic4.png)
