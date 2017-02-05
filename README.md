@@ -23,3 +23,10 @@ Because the photos are sized based on the available viewing area in the browser,
 # Disclaimer
 
 This project is entirely for demo purposes. It isn't production ready, however feel free to make it so! :)
+
+# Screenshots
+
+![canvuz-fullscreen](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic1.jpg)
+![canvuz-menu](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic2.jpg)
+![canvuz-album](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic3.jpg)
+![canvuz-pic](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic4.jpg)
