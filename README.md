@@ -26,7 +26,14 @@ This project is entirely for demo purposes. It isn't production ready, however f
 
 # Screenshots
 
+##### The entire canvas
 ![canvuz-fullscreen](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic1.png)
+
+##### Zoomed in to the menu
 ![canvuz-menu](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic2.png)
+
+##### Album view
 ![canvuz-album](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic3.png)
+
+##### Zoomed in to a picture
 ![canvuz-pic](https://raw.githubusercontent.com/johncollinson2001/canvuz/master/docs/pic4.png)
